@@ -1,5 +1,5 @@
 # distributed-cache-system
-Low level design on distributed cache system
+Low level design on distributed cache system with different eviction policies.
 
 Code focuses on modularity, proper implementation of SOLID design principles and error handling.
 
